@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" serverName="210公网" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
       <paths name="176">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="201公网">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zyl/disk/algorithms_ai" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
@@ -55,6 +62,13 @@
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="210公网">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/disk/algorithms_ai" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

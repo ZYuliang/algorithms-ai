@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1b6ea795-dfc4-47df-a114-97d2d41f2c1a" name="210公网">
+        <fileTransfer rootFolder="/home/zyl" accessType="SFTP" host="202.102.25.114" port="22345" sshConfigId="3bb1fd1f-6464-4dfb-a6e2-f3810b66da02" sshConfig="201公网" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
